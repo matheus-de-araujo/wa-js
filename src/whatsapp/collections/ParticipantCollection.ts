@@ -45,5 +45,5 @@ exportModule(
   {
     ParticipantCollection: ['default'],
   },
-  (m) => m.default.prototype.iAmMember
+  (m) => m.default.prototype
 );
